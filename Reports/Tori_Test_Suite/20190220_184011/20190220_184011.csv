@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Tori_Test_Suite,Firefox 65.0,,2019-02-20 18:40:15,2019-02-20 18:42:09,1m - 53.978s,PASSED
+,,,,,,
+Test Cases/Tori_Top_Menu,Firefox 65.0,,2019-02-20 18:40:15,2019-02-20 18:42:08,1m - 53.369s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-02-20 18:40:16,2019-02-20 18:40:24,7.719s,PASSED
+maximizeWindow(),Firefox 65.0,,2019-02-20 18:40:24,2019-02-20 18:40:24,0.397s,PASSED
+navigateToUrl(url),Firefox 65.0,,2019-02-20 18:40:24,2019-02-20 18:40:30,6.411s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Kaikki ilmoitukset""), 2)",Firefox 65.0,,2019-02-20 18:40:30,2019-02-20 18:40:31,0.158s,PASSED
+"click(findTestObject(""TOP_MENU/p_Kaikki ilmoitukset""))",Firefox 65.0,,2019-02-20 18:40:31,2019-02-20 18:40:41,10.838s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Autot""), 2)",Firefox 65.0,,2019-02-20 18:40:41,2019-02-20 18:40:41,0.086s,PASSED
+"click(findTestObject(""TOP_MENU/p_Autot""))",Firefox 65.0,,2019-02-20 18:40:41,2019-02-20 18:40:49,7.962s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Asunnot""), 2)",Firefox 65.0,,2019-02-20 18:40:49,2019-02-20 18:40:50,0.145s,PASSED
+"click(findTestObject(""TOP_MENU/p_Asunnot""))",Firefox 65.0,,2019-02-20 18:40:50,2019-02-20 18:41:53,1m - 3.272s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Tori-kaupat""), 2)",Firefox 65.0,,2019-02-20 18:41:53,2019-02-20 18:41:53,0.089s,PASSED
+"click(findTestObject(""TOP_MENU/p_Tori-kaupat""))",Firefox 65.0,,2019-02-20 18:41:53,2019-02-20 18:42:02,9.486s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/div_Tori-kaupat_header_logo""), 2)",Firefox 65.0,,2019-02-20 18:42:02,2019-02-20 18:42:03,0.077s,PASSED
+"click(findTestObject(""TOP_MENU/div_Tori-kaupat_header_logo""))",Firefox 65.0,,2019-02-20 18:42:03,2019-02-20 18:42:05,2.532s,PASSED
+closeBrowser(),Firefox 65.0,,2019-02-20 18:42:05,2019-02-20 18:42:08,3.430s,PASSED

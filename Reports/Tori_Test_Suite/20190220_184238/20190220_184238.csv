@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Tori_Test_Suite,Chrome 72.0.3626.109,,2019-02-20 18:42:42,2019-02-20 18:44:02,1m - 20.437s,PASSED
+,,,,,,
+Test Cases/Tori_Top_Menu,Chrome 72.0.3626.109,,2019-02-20 18:42:42,2019-02-20 18:44:02,1m - 19.862s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.109,,2019-02-20 18:42:43,2019-02-20 18:42:50,6.768s,PASSED
+maximizeWindow(),Chrome 72.0.3626.109,,2019-02-20 18:42:50,2019-02-20 18:42:51,1.279s,PASSED
+navigateToUrl(url),Chrome 72.0.3626.109,,2019-02-20 18:42:51,2019-02-20 18:42:58,6.513s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Kaikki ilmoitukset""), 2)",Chrome 72.0.3626.109,,2019-02-20 18:42:58,2019-02-20 18:42:58,0.538s,PASSED
+"click(findTestObject(""TOP_MENU/p_Kaikki ilmoitukset""))",Chrome 72.0.3626.109,,2019-02-20 18:42:58,2019-02-20 18:43:07,8.970s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Autot""), 2)",Chrome 72.0.3626.109,,2019-02-20 18:43:07,2019-02-20 18:43:07,0.097s,PASSED
+"click(findTestObject(""TOP_MENU/p_Autot""))",Chrome 72.0.3626.109,,2019-02-20 18:43:07,2019-02-20 18:43:18,11.196s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Asunnot""), 2)",Chrome 72.0.3626.109,,2019-02-20 18:43:18,2019-02-20 18:43:18,0.059s,PASSED
+"click(findTestObject(""TOP_MENU/p_Asunnot""))",Chrome 72.0.3626.109,,2019-02-20 18:43:18,2019-02-20 18:43:28,9.203s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/p_Tori-kaupat""), 2)",Chrome 72.0.3626.109,,2019-02-20 18:43:28,2019-02-20 18:43:28,0.059s,PASSED
+"click(findTestObject(""TOP_MENU/p_Tori-kaupat""))",Chrome 72.0.3626.109,,2019-02-20 18:43:28,2019-02-20 18:43:58,29.943s,PASSED
+"waitForElementClickable(findTestObject(""TOP_MENU/div_Tori-kaupat_header_logo""), 2)",Chrome 72.0.3626.109,,2019-02-20 18:43:58,2019-02-20 18:43:58,0.073s,PASSED
+"click(findTestObject(""TOP_MENU/div_Tori-kaupat_header_logo""))",Chrome 72.0.3626.109,,2019-02-20 18:43:58,2019-02-20 18:44:01,3.508s,PASSED
+closeBrowser(),Chrome 72.0.3626.109,,2019-02-20 18:44:01,2019-02-20 18:44:02,0.888s,PASSED
