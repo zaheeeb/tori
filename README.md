@@ -1,10 +1,9 @@
-# Tori Top Menu
 ### UI test automation of tori top menus.
 
 ## Guidelines
 
-### Donwload and save this project to local computer.
-### Download katalon studio from https://www.katalon.com/download
+##### Donwload and save this project to local computer.
+##### Download katalon studio from https://www.katalon.com/download
 ### Install Katalon studio.
 ### Open downloaded Project in katalon studio.
 ### From left menu open test suite.
