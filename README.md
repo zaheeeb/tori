@@ -1,4 +1,4 @@
-### UI test automation of tori top menus.
+### UI test automation of tori.fi top menus.
 
 ## Guidelines
 
