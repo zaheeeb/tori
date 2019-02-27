@@ -2,7 +2,7 @@
 
 ## Guidelines
 
-##### Donwload and save this project to local computer.
+##### Donwload this project to local machine.
 ##### Download katalon studio from https://www.katalon.com/download
 ##### Install Katalon studio.
 ##### Open downloaded Project in katalon studio.
